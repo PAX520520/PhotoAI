@@ -1,32 +1,36 @@
 {
-    "iOS": {
-        "force_update": false,
-        "version": "1.1.6",
-        "messages": {
-            "en": "Due to server upgrades, please update to the latest version on App Store to ensure functionality",
-            "fr": "En raison des mises à niveau du serveur, veuillez mettre à jour vers la dernière version sur App Store pour assurer la fonctionnalité",
-            "es": "Debido a las actualizaciones del servidor, actualice a la última versión en App Store para garantizar la funcionalidad",
-            "de": "Aufgrund von Server-Upgrades, bitte aktualisieren Sie auf die neueste Version im App Store, um die Funktionalität sicherzustellen",
-            "hi": "सर्वर अपग्रेड के कारण, कृपया कार्यक्षमता सुनिश्चित करने के लिए App Store पर नवीनतम संस्करण में अपडेट करें",
-            "ja": "サーバーのアップグレードにより、機能を確保するためにApp Storeで最新バージョンに更新してください",
-            "ko": "서버 업그레이드로 인해 기능을 보장하려면 App Store에서 최신 버전으로 업데이트하십시오",
-            "pt": "Devido a atualizações do servidor, por favor atualize para a última versão no App Store para garantir a funcionalidade",
-            "ar": "بسبب ترقيات الخادم، يرجى تحديث إلى أحدث إصدار على App Store لضمان الوظائف"
+    "operating_system" : [
+        {
+            "os_name": "ios",
+            "force_update": false,
+            "version": "1.1.6",
+            "messages": {
+                "en": "Due to server upgrades, please update to the latest version on App Store to ensure functionality",
+                "fr": "En raison des mises à niveau du serveur, veuillez mettre à jour vers la dernière version sur App Store pour assurer la fonctionnalité",
+                "es": "Debido a las actualizaciones del servidor, actualice a la última versión en App Store para garantizar la funcionalidad",
+                "de": "Aufgrund von Server-Upgrades, bitte aktualisieren Sie auf die neueste Version im App Store, um die Funktionalität sicherzustellen",
+                "hi": "सर्वर अपग्रेड के कारण, कृपया कार्यक्षमता सुनिश्चित करने के लिए App Store पर नवीनतम संस्करण में अपडेट करें",
+                "ja": "サーバーのアップグレードにより、機能を確保するためにApp Storeで最新バージョンに更新してください",
+                "ko": "서버 업그레이드로 인해 기능을 보장하려면 App Store에서 최신 버전으로 업데이트하십시오",
+                "pt": "Devido a atualizações do servidor, por favor atualize para a última versão no App Store para garantir a funcionalidade",
+                "ar": "بسبب ترقيات الخادم، يرجى تحديث إلى أحدث إصدار على App Store لضمان الوظائف"
+            }
+        },
+        {
+            "os_name": "android",
+            "force_update": false,
+            "version": "1.7.9",
+            "messages": {
+                "en": "Due to server upgrades, please update to the latest version on Google Play to ensure functionality",
+                "fr": "En raison des mises à niveau du serveur, veuillez mettre à jour vers la dernière version sur Google Play pour assurer la fonctionnalité",
+                "es": "Debido a las actualizaciones del servidor, actualice a la última versión en Google Play para garantizar la funcionalidad",
+                "de": "Aufgrund von Server-Upgrades, bitte aktualisieren Sie auf die neueste Version im Google Play, um die Funktionalität sicherzustellen",
+                "hi": "सर्वर अपग्रेड के कारण, कृपया कार्यक्षमता सुनिश्चित करने के लिए Google Play पर नवीनतम संस्करण में अपडेट करें",
+                "ja": "サーバーのアップグレードにより、機能を確保するためにGoogle Playで最新バージョンに更新してください",
+                "ko": "서버 업그레이드로 인해 기능을 보장하려면 Google Play에서 최신 버전으로 업데이트하십시오",
+                "pt": "Devido a atualizações do servidor, por favor atualize para a última versão no Google Play para garantir a funcionalidade",
+                "ar": "بسبب ترقيات الخادم، يرجى تحديث إلى أحدث إصدار على Google Play لضمان الوظائف"
+            }
         }
-    },
-    "Android": {
-        "force_update": false,
-        "version": "1.7.9",
-        "messages": {
-            "en": "Due to server upgrades, please update to the latest version on Google Play to ensure functionality",
-            "fr": "En raison des mises à niveau du serveur, veuillez mettre à jour vers la dernière version sur Google Play pour assurer la fonctionnalité",
-            "es": "Debido a las actualizaciones del servidor, actualice a la última versión en Google Play para garantizar la funcionalidad",
-            "de": "Aufgrund von Server-Upgrades, bitte aktualisieren Sie auf die neueste Version im Google Play, um die Funktionalität sicherzustellen",
-            "hi": "सर्वर अपग्रेड के कारण, कृपया कार्यक्षमता सुनिश्चित करने के लिए Google Play पर नवीनतम संस्करण में अपडेट करें",
-            "ja": "サーバーのアップグレードにより、機能を確保するためにGoogle Playで最新バージョンに更新してください",
-            "ko": "서버 업그레이드로 인해 기능을 보장하려면 Google Play에서 최신 버전으로 업데이트하십시오",
-            "pt": "Devido a atualizações do servidor, por favor atualize para a última versão no Google Play para garantir a funcionalidade",
-            "ar": "بسبب ترقيات الخادم، يرجى تحديث إلى أحدث إصدار على Google Play لضمان الوظائف"
-        }
-    }
+    ]
 }
