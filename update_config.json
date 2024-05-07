@@ -4,7 +4,6 @@
             "os_name": "ios",
             "force_update": false,
             "version": "1.1.6",
-            "version_code": 1,
             "messages": {
                 "en": "Due to server upgrades, please update to the latest version on App Store to ensure functionality",
                 "fr": "En raison des mises à niveau du serveur, veuillez mettre à jour vers la dernière version sur App Store pour assurer la fonctionnalité",
@@ -21,7 +20,6 @@
             "os_name": "android",
             "force_update": false,
             "version": "1.7.9",
-            "version_code": 24050701,
             "messages": {
                 "en": "Due to server upgrades, please update to the latest version on Google Play to ensure functionality",
                 "fr": "En raison des mises à niveau du serveur, veuillez mettre à jour vers la dernière version sur Google Play pour assurer la fonctionnalité",
