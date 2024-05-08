@@ -2,8 +2,8 @@
     "operating_system" : [
         {
             "os_name": "ios",
-            "force_update_below_version": "1.1.5",
-            "force_update_versions": [],
+            "force_update_below_version": "",
+            "force_update_versions": ["1.1.4"],
             "version": "1.1.6",
             "messages": {
                 "en": "Due to server upgrades, please update to the latest version on App Store to ensure functionality",
@@ -19,8 +19,8 @@
         },
         {
             "os_name": "android",
-            "force_update_below_version": "1.7.3",
-            "force_update_versions": [],
+            "force_update_below_version": "",
+            "force_update_versions": ["1.7.4"],
             "version": "1.7.9",
             "messages": {
                 "en": "Due to server upgrades, please update to the latest version on Google Play to ensure functionality",
