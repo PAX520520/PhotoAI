@@ -19,7 +19,7 @@
         },
         {
             "os_name": "android",
-            "force_update_below_version": "1.7.5",
+            "force_update_below_version": "1.7.3",
             "force_update_versions": [],
             "version": "1.7.9",
             "messages": {
