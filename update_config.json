@@ -21,7 +21,7 @@
             "os_name": "android",
             "force_update_below_version": "",
             "force_update_versions": [],
-            "version": "1.8.1",
+            "version": "1.8.2",
             "messages": {
                 "en": "Due to server upgrades, please update to the latest version on Google Play to ensure functionality",
                 "fr": "En raison des mises à niveau du serveur, veuillez mettre à jour vers la dernière version sur Google Play pour assurer la fonctionnalité",
