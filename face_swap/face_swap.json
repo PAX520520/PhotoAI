@@ -1,0 +1,51 @@
+{
+  "header_url": "",
+  "categories": [
+    {
+      "title": "Favorite",
+      "items": [
+        {
+          "id": "1",
+          "name": "Elegant Princess",
+          "image_url": "https://example.com/images/princess1.jpg",
+          "description": "A royal-inspired AI-generated portrait."
+        },
+        {
+          "id": "2",
+          "name": "Traditional Beauty",
+          "image_url": "https://example.com/images/traditional_beauty.jpg",
+          "description": "A blend of tradition and elegance."
+        },
+        {
+          "id": "3",
+          "name": "Modern Royalty",
+          "image_url": "https://example.com/images/modern_royalty.jpg",
+          "description": "A contemporary royal portrait."
+        }
+      ]
+    },
+    {
+      "title": "Brazilian",
+      "items": [
+        {
+          "id": "4",
+          "name": "Beach Model",
+          "image_url": "https://example.com/images/beach_model.jpg",
+          "description": "A vibrant and sunny personality."
+        },
+        {
+          "id": "5",
+          "name": "Soccer Fan",
+          "image_url": "https://example.com/images/soccer_fan.jpg",
+          "description": "Loyal supporter of the Brazilian team."
+        },
+        {
+          "id": "6",
+          "name": "Team Captain",
+          "image_url": "https://example.com/images/team_captain.jpg",
+          "description": "A confident and ambitious leader."
+        }
+      ]
+    }
+  ]
+}
