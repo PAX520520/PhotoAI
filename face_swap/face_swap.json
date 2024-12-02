@@ -1,51 +1,130 @@
 {
-  "header_url": "",
-  "categories": [
-    {
-      "title": "Favorite",
-      "items": [
+    "header_url": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/header.mp4",
+    "categories": [
         {
-          "id": "1",
-          "name": "Elegant Princess",
-          "image_url": "https://example.com/images/princess1.jpg",
-          "description": "A royal-inspired AI-generated portrait."
+            "title": {
+                "en": "Asian Girls",
+                "fr": "Filles asiatiques",
+                "es": "Chicas asiáticas",
+                "ar": "فتيات آسيويات",
+                "pt": "Meninas asiáticas",
+                "ja": "アジアの女の子",
+                "ko": "아시아 소녀",
+                "de": "Asiatische Mädchen",
+                "hi": "एशियाई लड़कियां"
+            },
+            "items": [
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian1.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian2.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian3.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian4.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian5.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian6.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian7.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian8.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian9.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian10.jpeg"
+            ]
         },
         {
-          "id": "2",
-          "name": "Traditional Beauty",
-          "image_url": "https://example.com/images/traditional_beauty.jpg",
-          "description": "A blend of tradition and elegance."
+            "title": {
+                "en": "Barbie",
+                "fr": "Barbie",
+                "es": "Barbie",
+                "ar": "باربي",
+                "pt": "Barbie",
+                "ja": "バービー",
+                "ko": "바비",
+                "de": "Barbie",
+                "hi": "बार्बी"
+            },
+            "items": [
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie1.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie2.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie3.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie4.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie5.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie6.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie7.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie8.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie9.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie10.jpeg"
+            ]
         },
         {
-          "id": "3",
-          "name": "Modern Royalty",
-          "image_url": "https://example.com/images/modern_royalty.jpg",
-          "description": "A contemporary royal portrait."
+            "title": {
+                "en": "Brazilian",
+                "fr": "Brésilien",
+                "es": "Brasileño",
+                "ar": "برازيلي",
+                "pt": "Brasileiro",
+                "ja": "ブラジリアン",
+                "ko": "브라질 사람",
+                "de": "Brasilianisch",
+                "hi": "ब्राजीलियन"
+            },
+            "items": [
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian1.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian2.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian3.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian4.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian5.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian6.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian7.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian8.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian9.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian10.jpeg"
+            ]
+        },
+        {
+            "title": {
+                "en": "Indian",
+                "fr": "Indien",
+                "es": "Indio",
+                "ar": "الهندي",
+                "pt": "Indian",
+                "ja": "インド人",
+                "ko": "인도 사람",
+                "de": "Indianer",
+                "hi": "भारतीय"
+            },
+            "items": [
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian1.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian2.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian3.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian4.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian5.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian6.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian7.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian8.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian9.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian10.jpeg"
+            ]
+        },
+        {
+            "title": {
+                "en": "Princess",
+                "fr": "Princesse",
+                "es": "Princesa",
+                "ar": "الأميرة",
+                "pt": "Princesa",
+                "ja": "プリンセス",
+                "ko": "공주",
+                "de": "Prinzessin",
+                "hi": "राजकुमारी"
+            },
+            "items": [
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess1.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess2.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess3.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess4.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess5.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess6.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess7.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess8.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess9.jpeg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess10.jpeg"
+            ]
         }
-      ]
-    },
-    {
-      "title": "Brazilian",
-      "items": [
-        {
-          "id": "4",
-          "name": "Beach Model",
-          "image_url": "https://example.com/images/beach_model.jpg",
-          "description": "A vibrant and sunny personality."
-        },
-        {
-          "id": "5",
-          "name": "Soccer Fan",
-          "image_url": "https://example.com/images/soccer_fan.jpg",
-          "description": "Loyal supporter of the Brazilian team."
-        },
-        {
-          "id": "6",
-          "name": "Team Captain",
-          "image_url": "https://example.com/images/team_captain.jpg",
-          "description": "A confident and ambitious leader."
-        }
-      ]
-    }
-  ]
+    ]
 }
