@@ -3,31 +3,6 @@
     "categories": [
         {
             "title": {
-                "en": "Asian Girls",
-                "fr": "Filles asiatiques",
-                "es": "Chicas asiáticas",
-                "ar": "فتيات آسيويات",
-                "pt": "Meninas asiáticas",
-                "ja": "アジアの女の子",
-                "ko": "아시아 소녀",
-                "de": "Asiatische Mädchen",
-                "hi": "एशियाई लड़कियां"
-            },
-            "items": [
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian1.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian2.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian3.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian4.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian5.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian6.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian7.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian8.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian9.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/asian/asian10.jpeg"
-            ]
-        },
-        {
-            "title": {
                 "en": "Barbie",
                 "fr": "Barbie",
                 "es": "Barbie",
@@ -39,66 +14,66 @@
                 "hi": "बार्बी"
             },
             "items": [
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie1.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie2.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie3.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie4.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie5.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie6.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie7.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie8.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie9.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie10.jpeg"
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie1.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie2.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie3.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie4.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie5.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie6.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie7.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie8.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie9.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/barbie/barbie10.jpg"
             ]
         },
         {
             "title": {
-                "en": "Brazilian",
-                "fr": "Brésilien",
-                "es": "Brasileño",
-                "ar": "برازيلي",
-                "pt": "Brasileiro",
-                "ja": "ブラジリアン",
-                "ko": "브라질 사람",
-                "de": "Brasilianisch",
-                "hi": "ब्राजीलियन"
+                "en": "Basketball Cheerleading",
+                "fr": "Pom-pom girl de basket-ball",
+                "es": "Animadoras de baloncesto",
+                "ar": "التشجيع على كرة السلة",
+                "pt": "Líderes de torcida de basquete",
+                "ja": "バスケットボールのチアリーディング",
+                "ko": "농구 치어리딩",
+                "de": "Basketball-Cheerleading",
+                "hi": "बास्केटबॉल चियरलीडिंग"
             },
             "items": [
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian1.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian2.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian3.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian4.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian5.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian6.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian7.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian8.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian9.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/brazilian/brazilian10.jpeg"
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/basketball_cheerleading/basketball_cheerleading1.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/basketball_cheerleading/basketball_cheerleading2.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/basketball_cheerleading/basketball_cheerleading3.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/basketball_cheerleading/basketball_cheerleading4.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/basketball_cheerleading/basketball_cheerleading5.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/basketball_cheerleading/basketball_cheerleading6.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/basketball_cheerleading/basketball_cheerleading7.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/basketball_cheerleading/basketball_cheerleading8.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/basketball_cheerleading/basketball_cheerleading9.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/basketball_cheerleading/basketball_cheerleading10.jpg"
             ]
         },
         {
             "title": {
-                "en": "Indian",
-                "fr": "Indien",
-                "es": "Indio",
-                "ar": "الهندي",
-                "pt": "Indian",
-                "ja": "インド人",
-                "ko": "인도 사람",
-                "de": "Indianer",
-                "hi": "भारतीय"
+                "en": "Cyberpunk",
+                "fr": "Cyberpunk",
+                "es": "Cyberpunk",
+                "ar": "سايبربانك",
+                "pt": "Cyberpunk",
+                "ja": "サイバーパンク",
+                "ko": "사이버 펑크",
+                "de": "Cyberpunk",
+                "hi": "साइबरपंक"
             },
             "items": [
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian1.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian2.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian3.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian4.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian5.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian6.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian7.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian8.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian9.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/indian/indian10.jpeg"
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk1.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk2.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk3.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk4.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk5.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk6.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk7.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk8.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk9.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk10.jpg"
             ]
         },
         {
@@ -114,16 +89,66 @@
                 "hi": "राजकुमारी"
             },
             "items": [
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess1.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess2.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess3.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess4.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess5.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess6.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess7.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess8.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess9.jpeg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess10.jpeg"
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess1.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess2.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess3.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess4.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess5.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess6.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess7.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess8.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess9.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/princess/princess10.jpg"
+            ]
+        },
+        {
+            "title": {
+                "en": "Retro",
+                "fr": "Rétro",
+                "es": "Retro",
+                "ar": "ريترو",
+                "pt": "Retro",
+                "ja": "レトロ",
+                "ko": "레트로",
+                "de": "Retro",
+                "hi": "रेट्रो"
+            },
+            "items": [
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/retro/retro1.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/retro/retro2.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/retro/retro3.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/retro/retro4.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/retro/retro5.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/retro/retro6.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/retro/retro7.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/retro/retro8.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/retro/retro9.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/retro/retro10.jpg"
+            ]
+        },
+        {
+            "title": {
+                "en": "Travel",
+                "fr": "Voyage",
+                "es": "Viaje",
+                "ar": "السفر",
+                "pt": "Viagem",
+                "ja": "旅行",
+                "ko": "여행",
+                "de": "Reisen",
+                "hi": "यात्रा"
+            },
+            "items": [
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/travel/travel1.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/travel/travel2.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/travel/travel3.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/travel/travel4.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/travel/travel5.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/travel/travel6.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/travel/travel7.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/travel/travel8.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/travel/travel9.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/travel/travel10.jpg"
             ]
         }
     ]
