@@ -3,6 +3,31 @@
     "categories": [
         {
             "title": {
+                "en": "Autumn",
+                "fr": "Automne",
+                "es": "Otoño",
+                "ar": "الخريف",
+                "pt": "Outono",
+                "ja": "秋",
+                "ko": "가을",
+                "de": "Herbst",
+                "hi": "पतझड़"
+            },
+            "items": [
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/autumn/autumn1.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/autumn/autumn2.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/autumn/autumn3.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/autumn/autumn4.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/autumn/autumn5.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/autumn/autumn6.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/autumn/autumn7.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/autumn/autumn8.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/autumn/autumn9.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/autumn/autumn10.jpg"
+            ]
+        },
+        {
+            "title": {
                 "en": "Barbie",
                 "fr": "Barbie",
                 "es": "Barbie",
@@ -49,31 +74,6 @@
                 "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/basketball_cheerleading/basketball_cheerleading8.jpg",
                 "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/basketball_cheerleading/basketball_cheerleading9.jpg",
                 "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/basketball_cheerleading/basketball_cheerleading10.jpg"
-            ]
-        },
-        {
-            "title": {
-                "en": "Cyberpunk",
-                "fr": "Cyberpunk",
-                "es": "Cyberpunk",
-                "ar": "سايبربانك",
-                "pt": "Cyberpunk",
-                "ja": "サイバーパンク",
-                "ko": "사이버 펑크",
-                "de": "Cyberpunk",
-                "hi": "साइबरपंक"
-            },
-            "items": [
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk1.jpg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk2.jpg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk3.jpg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk4.jpg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk5.jpg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk6.jpg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk7.jpg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk8.jpg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk9.jpg",
-                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk10.jpg"
             ]
         },
         {
@@ -128,6 +128,31 @@
         },
         {
             "title": {
+                "en": "Summer Beach",
+                "fr": "Plage d'été",
+                "es": "Playa de verano",
+                "ar": "شاطئ الصيف",
+                "pt": "Praia de verão",
+                "ja": "夏のビーチ",
+                "ko": "여름 해변",
+                "de": "Sommerstrand",
+                "hi": "गर्मियों का समुद्र तट"
+            },
+            "items": [
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/summer_beach/summer_beach1.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/summer_beach/summer_beach2.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/summer_beach/summer_beach3.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/summer_beach/summer_beach4.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/summer_beach/summer_beach5.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/summer_beach/summer_beach6.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/summer_beach/summer_beach7.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/summer_beach/summer_beach8.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/summer_beach/summer_beach9.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/summer_beach/summer_beach10.jpg"
+            ]
+        },
+        {
+            "title": {
                 "en": "Travel",
                 "fr": "Voyage",
                 "es": "Viaje",
@@ -149,6 +174,31 @@
                 "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/travel/travel8.jpg",
                 "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/travel/travel9.jpg",
                 "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/travel/travel10.jpg"
+            ]
+        },
+        {
+            "title": {
+                "en": "Cyberpunk",
+                "fr": "Cyberpunk",
+                "es": "Cyberpunk",
+                "ar": "سايبربانك",
+                "pt": "Cyberpunk",
+                "ja": "サイバーパンク",
+                "ko": "사이버 펑크",
+                "de": "Cyberpunk",
+                "hi": "साइबरपंक"
+            },
+            "items": [
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk1.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk2.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk3.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk4.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk5.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk6.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk7.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk8.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk9.jpg",
+                "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/face_swap/cyberpunk/cyberpunk10.jpg"
             ]
         }
     ]
