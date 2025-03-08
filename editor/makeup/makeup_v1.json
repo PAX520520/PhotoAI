@@ -1,0 +1,138 @@
+{
+    "lipstick": {
+        "colorCategories": [
+            {
+                "title": {
+                    "ar": "أحمر",
+                    "de": "Rot", 
+                    "en": "Red",
+                    "es": "Rojo",
+                    "fr": "Rouge",
+                    "hi": "लाल",
+                    "ja": "レッド",
+                    "ko": "빨간색",
+                    "pt": "Vermelho"
+                },
+                "defaultValue": 50,
+                "hex": "#FF0000",
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_red.jpg"
+            },
+            {
+                "title": {
+                    "ar": "أحمر وردي",
+                    "de": "Rosiges Rot",
+                    "en": "Rosy Red", 
+                    "es": "Rojo Rosado",
+                    "fr": "Rouge Rosé",
+                    "hi": "गुलाबी लाल",
+                    "ja": "ローズレッド",
+                    "ko": "장미빛 레드",
+                    "pt": "Vermelho Rosado"
+                },
+                "defaultValue": 50,
+                "hex": "#BC8F8F",
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_rosy.jpg"
+            },
+            {
+                "title": {
+                    "ar": "مرجاني",
+                    "de": "Koralle",
+                    "en": "Coral",
+                    "es": "Coral",
+                    "fr": "Corail",
+                    "hi": "मूंगा",
+                    "ja": "コーラル",
+                    "ko": "코랄",
+                    "pt": "Coral"
+                },
+                "defaultValue": 50,
+                "hex": "#FF7F50",
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_coral.jpg"
+            },
+            {
+                "title": {
+                    "ar": "عاري",
+                    "de": "Nude",
+                    "en": "Nude",
+                    "es": "Nude",
+                    "fr": "Nude",
+                    "hi": "न्यूड",
+                    "ja": "ヌード",
+                    "ko": "누드",
+                    "pt": "Nude"
+                },
+                "defaultValue": 50,
+                "hex": "#F5DEB3",
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_nude.jpg"
+            }
+        ]
+    },
+    "blush": {
+        "colorCategories": [
+            {
+                "title": {
+                    "ar": "وردي",
+                    "de": "Rosa",
+                    "en": "Pink",
+                    "es": "Rosa",
+                    "fr": "Rose",
+                    "hi": "गुलाबी",
+                    "ja": "ピンク",
+                    "ko": "핑크",
+                    "pt": "Rosa"
+                },
+                "defaultValue": 50,
+                "hex": "#FFC0CB",
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_pink.jpg"
+            },
+            {
+                "title": {
+                    "ar": "برتقالي",
+                    "de": "Orange",
+                    "en": "Orange",
+                    "es": "Naranja",
+                    "fr": "Orange",
+                    "hi": "नारंगी",
+                    "ja": "オレンジ",
+                    "ko": "오렌지",
+                    "pt": "Laranja"
+                },
+                "defaultValue": 50,
+                "hex": "#FFA07A",
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_orange.jpg"
+            },
+            {
+                "title": {
+                    "ar": "مرجاني",
+                    "de": "Koralle",
+                    "en": "Coral",
+                    "es": "Coral",
+                    "fr": "Corail",
+                    "hi": "मूंगा",
+                    "ja": "コーラル",
+                    "ko": "코랄",
+                    "pt": "Coral"
+                },
+                "defaultValue": 50,
+                "hex": "#FF7F50",
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_coral.jpg"
+            },
+            {
+                "title": {
+                    "ar": "برقوق",
+                    "de": "Pflaume",
+                    "en": "Plum",
+                    "es": "Ciruela",
+                    "fr": "Prune",
+                    "hi": "बैंगनी",
+                    "ja": "プラム",
+                    "ko": "자주색",
+                    "pt": "Ameixa"
+                },
+                "defaultValue": 50,
+                "hex": "#D87093",
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_plum.jpg"
+            }
+        ]
+    }
+}
