@@ -156,57 +156,6 @@
             },
             {
                 "title": {
-                    "ar": "بيج",
-                    "de": "Beige",
-                    "en": "Beige",
-                    "es": "Beige",
-                    "fr": "Beige",
-                    "hi": "बेज",
-                    "ja": "ベージュ",
-                    "ko": "베이지",
-                    "pt": "Bege"
-                },
-                "defaultValue": 50,
-                "hex": "#F5F5DC",
-                "maxOpacity": 1,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_beige.jpg"
-            },
-            {
-                "title": {
-                    "ar": "وردي",
-                    "de": "Rosa",
-                    "en": "Pink",
-                    "es": "Rosa",
-                    "fr": "Rose",
-                    "hi": "गुलाबी",
-                    "ja": "ピンク",
-                    "ko": "핑크",
-                    "pt": "Rosa"
-                },
-                "defaultValue": 50,
-                "hex": "#FFC0CB",
-                "maxOpacity": 0.3,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_pink.jpg"
-            },
-            {
-                "title": {
-                    "ar": "خوخي",
-                    "de": "Pfirsich",
-                    "en": "Peach",
-                    "es": "Melocotón",
-                    "fr": "Pêche",
-                    "hi": "आड़ू",
-                    "ja": "ピーチ",
-                    "ko": "복숭아색",
-                    "pt": "Pêssego"
-                },
-                "defaultValue": 50,
-                "hex": "#FFDAB9",
-                "maxOpacity": 0.35,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_peach.jpg"
-            },
-            {
-                "title": {
                     "ar": "أحمر",
                     "de": "Rot",
                     "en": "Red",
