@@ -15,6 +15,7 @@
                 },
                 "defaultValue": 50,
                 "hex": "#FF0000",
+                "maxOpacity": 1,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_red.jpg"
             },
             {
@@ -31,6 +32,7 @@
                 },
                 "defaultValue": 50,
                 "hex": "#BC8F8F",
+                "maxOpacity": 1,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_rosy.jpg"
             },
             {
@@ -47,6 +49,7 @@
                 },
                 "defaultValue": 50,
                 "hex": "#FF7F50",
+                "maxOpacity": 1,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_coral.jpg"
             },
             {
@@ -63,7 +66,59 @@
                 },
                 "defaultValue": 50,
                 "hex": "#F5DEB3",
+                "maxOpacity": 1,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_nude.jpg"
+            },
+            {
+                "title": {
+                    "ar": "وردي",
+                    "de": "Rosa",
+                    "en": "Pink",
+                    "es": "Rosa",
+                    "fr": "Rose",
+                    "hi": "गुलाबी",
+                    "ja": "ピンク",
+                    "ko": "핑크",
+                    "pt": "Rosa"
+                },
+                "defaultValue": 50,
+                "hex": "#FFC0CB",
+                "maxOpacity": 1,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_pink.jpg"
+            },
+            {
+                "title": {
+                    "ar": "أرجواني",
+                    "de": "Violett",
+                    "en": "Purple",
+                    "es": "Morado",
+                    "fr": "Violet",
+                    "hi": "बैंगनी",
+                    "ja": "パープル",
+                    "ko": "보라색",
+                    "pt": "Roxo"
+                },
+                "defaultValue": 50,
+                "hex": "#800080",
+                "maxOpacity": 1,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_purple.jpg"
+            },
+            {
+                "title": {
+                    "ar": "أحمر داكن",
+                    "de": "Dunkelrot",
+                    "en": "Deep Red",
+                    "es": "Rojo Oscuro",
+                    "fr": "Rouge Foncé",
+                    "hi": "गहरा लाल",
+                    "ja": "ディープレッド",
+                    "ko": "진한 빨간색",
+                    "pt": "Vermelho Escuro"
+                },
+                "defaultValue": 50,
+                "hex": "#8B0000",
+                "maxOpacity": 1,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_deep_red.jpg"
             }
         ]
     },
@@ -83,6 +138,7 @@
                 },
                 "defaultValue": 50,
                 "hex": "#FFC0CB",
+                "maxOpacity": 1,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_pink.jpg"
             },
             {
@@ -99,6 +155,7 @@
                 },
                 "defaultValue": 50,
                 "hex": "#FFA07A",
+                "maxOpacity": 1,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_orange.jpg"
             },
             {
@@ -115,6 +172,7 @@
                 },
                 "defaultValue": 50,
                 "hex": "#FF7F50",
+                "maxOpacity": 1,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_coral.jpg"
             },
             {
@@ -131,7 +189,59 @@
                 },
                 "defaultValue": 50,
                 "hex": "#D87093",
+                "maxOpacity": 1,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_plum.jpg"
+            },
+            {
+                "title": {
+                    "ar": "وردي خوخي",
+                    "de": "Pfirsichrosa",
+                    "en": "Peach Pink",
+                    "es": "Rosa Melocotón",
+                    "fr": "Rose Pêche",
+                    "hi": "पीच पिंक",
+                    "ja": "ピーチピンク",
+                    "ko": "피치 핑크",
+                    "pt": "Rosa Pêssego"
+                },
+                "defaultValue": 50,
+                "hex": "#FFB6C1",
+                "maxOpacity": 1,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_peach_pink.jpg"
+            },
+            {
+                "title": {
+                    "ar": "ذهبي وردي",
+                    "de": "Roségold",
+                    "en": "Rose Gold",
+                    "es": "Oro Rosa",
+                    "fr": "Or Rose",
+                    "hi": "रोज़ गोल्ड",
+                    "ja": "ローズゴールド",
+                    "ko": "로즈 골드",
+                    "pt": "Ouro Rosa"
+                },
+                "defaultValue": 50,
+                "hex": "#B76E79",
+                "maxOpacity": 1,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_rose_gold.jpg"
+            },
+            {
+                "title": {
+                    "ar": "بني",
+                    "de": "Braun",
+                    "en": "Brown",
+                    "es": "Marrón",
+                    "fr": "Brun",
+                    "hi": "भूरा",
+                    "ja": "ブラウン",
+                    "ko": "갈색",
+                    "pt": "Marrom"
+                },
+                "defaultValue": 50,
+                "hex": "#A0522D",
+                "maxOpacity": 1,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_brown.jpg"
             }
         ]
     }
