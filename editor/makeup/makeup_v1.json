@@ -16,7 +16,7 @@
                 "defaultValue": 50,
                 "hex": "#FF0000",
                 "maxOpacity": 1,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_red.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_red.jpeg"
             },
             {
                 "title": {
@@ -33,7 +33,7 @@
                 "defaultValue": 50,
                 "hex": "#BC8F8F",
                 "maxOpacity": 1,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_rosy.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_rosy.jpeg"
             },
             {
                 "title": {
@@ -50,7 +50,7 @@
                 "defaultValue": 50,
                 "hex": "#FF7F50",
                 "maxOpacity": 1,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_coral.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_coral.jpeg"
             },
             {
                 "title": {
@@ -67,7 +67,7 @@
                 "defaultValue": 50,
                 "hex": "#F5DEB3",
                 "maxOpacity": 1,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_nude.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_nude.jpeg"
             },
             {
                 "title": {
@@ -84,7 +84,7 @@
                 "defaultValue": 50,
                 "hex": "#FFC0CB",
                 "maxOpacity": 1,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_pink.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_pink.jpeg"
             },
             {
                 "title": {
@@ -101,7 +101,7 @@
                 "defaultValue": 50,
                 "hex": "#800080",
                 "maxOpacity": 1,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_purple.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_purple.jpeg"
             },
             {
                 "title": {
@@ -118,7 +118,7 @@
                 "defaultValue": 50,
                 "hex": "#8B0000",
                 "maxOpacity": 1,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_deep_red.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_deep_red.jpeg"
             },
             {
                 "title": {
@@ -135,7 +135,7 @@
                 "defaultValue": 50,
                 "hex": "#FFA500",
                 "maxOpacity": 1,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_orange.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_orange.jpeg"
             },
             {
                 "title": {
@@ -152,7 +152,7 @@
                 "defaultValue": 50,
                 "hex": "#722F37",
                 "maxOpacity": 1,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_wine_red.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_wine_red.jpeg"
             },
             {
                 "title": {
@@ -169,7 +169,7 @@
                 "defaultValue": 50,
                 "hex": "#FF6B6B",
                 "maxOpacity": 0.25,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_red.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_red.jpeg"
             }
         ]
     },
@@ -190,7 +190,7 @@
                 "defaultValue": 50,
                 "hex": "#FFA07A",
                 "maxOpacity": 0.4,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_orange.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_orange.jpeg"
             },
             {
                 "title": {
@@ -207,7 +207,7 @@
                 "defaultValue": 50,
                 "hex": "#D87093",
                 "maxOpacity": 0.3,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_plum.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_plum.jpeg"
             },
             {
                 "title": {
@@ -224,7 +224,7 @@
                 "defaultValue": 50,
                 "hex": "#B76E79",
                 "maxOpacity": 0.3,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_rose_gold.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_rose_gold.jpeg"
             },
             {
                 "title": {
@@ -241,7 +241,7 @@
                 "defaultValue": 50,
                 "hex": "#A0522D",
                 "maxOpacity": 0.25,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_brown.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_brown.jpeg"
             },
             {
                 "title": {
@@ -258,7 +258,7 @@
                 "defaultValue": 50,
                 "hex": "#FF6B6B",
                 "maxOpacity": 0.25,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_right_red.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_right_red.jpeg"
             },
             {
                 "title": {
@@ -275,7 +275,7 @@
                 "defaultValue": 50,
                 "hex": "#7B312E",
                 "maxOpacity": 0.25,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_deep_burgundy.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_deep_burgundy.jpeg"
             },
             {
                 "title": {
@@ -292,7 +292,7 @@
                 "defaultValue": 50,
                 "hex": "#9B3833",
                 "maxOpacity": 0.25,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_wine_red.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_wine_red.jpeg"
             },
             {
                 "title": {
@@ -309,7 +309,7 @@
                 "defaultValue": 50,
                 "hex": "#D9232F",
                 "maxOpacity": 0.3,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_cherry_red.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_cherry_red.jpeg"
             },
             {
                 "title": {
@@ -326,7 +326,7 @@
                 "defaultValue": 50,
                 "hex": "#DC6964",
                 "maxOpacity": 0.3,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_salmon_pink.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_salmon_pink.jpeg"
             },
             {
                 "title": {
@@ -343,7 +343,7 @@
                 "defaultValue": 50,
                 "hex": "#940B13",
                 "maxOpacity": 0.2,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_ruby_red.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_ruby_red.jpeg"
             },
             {
                 "title": {
@@ -360,7 +360,7 @@
                 "defaultValue": 50,
                 "hex": "#DB6A64",
                 "maxOpacity": 0.3,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_coral_pink.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_coral_pink.jpeg"
             },
             {
                 "title": {
@@ -377,7 +377,7 @@
                 "defaultValue": 50,
                 "hex": "#C3725F",
                 "maxOpacity": 0.3,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_peach.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_peach.jpeg"
             },
             {
                 "title": {
@@ -394,7 +394,7 @@
                 "defaultValue": 50,
                 "hex": "#E4864C",
                 "maxOpacity": 0.3,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_golden_orange.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_golden_orange.jpeg"
             }
         ]
     }
