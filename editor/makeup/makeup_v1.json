@@ -291,7 +291,7 @@
                 },
                 "defaultValue": 50,
                 "hex": "#7B312E",
-                "maxOpacity": 0.3,
+                "maxOpacity": 0.25,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_deep_burgundy.jpg"
             },
             {
@@ -325,7 +325,7 @@
                 },
                 "defaultValue": 50,
                 "hex": "#9B3833",
-                "maxOpacity": 0.3,
+                "maxOpacity": 0.25,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_wine_red.jpg"
             },
             {
@@ -376,7 +376,7 @@
                 },
                 "defaultValue": 50,
                 "hex": "#940B13",
-                "maxOpacity": 0.3,
+                "maxOpacity": 0.2,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_ruby_red.jpg"
             },
             {
