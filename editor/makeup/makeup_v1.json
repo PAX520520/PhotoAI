@@ -194,23 +194,6 @@
             },
             {
                 "title": {
-                    "ar": "مرجاني",
-                    "de": "Koralle",
-                    "en": "Coral",
-                    "es": "Coral",
-                    "fr": "Corail",
-                    "hi": "मूंगा",
-                    "ja": "コーラル",
-                    "ko": "코랄",
-                    "pt": "Coral"
-                },
-                "defaultValue": 50,
-                "hex": "#FF7F50",
-                "maxOpacity": 0.3,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_coral.jpg"
-            },
-            {
-                "title": {
                     "ar": "برقوق",
                     "de": "Pflaume",
                     "en": "Plum",
@@ -275,7 +258,7 @@
                 "defaultValue": 50,
                 "hex": "#FF6B6B",
                 "maxOpacity": 0.25,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_red.jpg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_right_red.jpg"
             },
             {
                 "title": {
@@ -293,23 +276,6 @@
                 "hex": "#7B312E",
                 "maxOpacity": 0.25,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_deep_burgundy.jpg"
-            },
-            {
-                "title": {
-                    "ar": "أحمر ساطع",
-                    "de": "Leuchtendes Rot",
-                    "en": "Bright Red",
-                    "es": "Rojo Brillante",
-                    "fr": "Rouge Vif",
-                    "hi": "चमकीला लाल",
-                    "ja": "ブライトレッド",
-                    "ko": "밝은 빨간색",
-                    "pt": "Vermelho Brilhante"
-                },
-                "defaultValue": 50,
-                "hex": "#E93F4A",
-                "maxOpacity": 0.3,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_bright_red.jpg"
             },
             {
                 "title": {
