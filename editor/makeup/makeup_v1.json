@@ -13,6 +13,7 @@
                     "ko": "빨간색",
                     "pt": "Vermelho"
                 },
+                "requireVip": false,
                 "defaultValue": 50,
                 "hex": "#FF0000",
                 "maxOpacity": 0.25,
@@ -30,6 +31,7 @@
                     "ko": "장미빛 레드",
                     "pt": "Vermelho Rosado"
                 },
+                "requireVip": false,
                 "defaultValue": 50,
                 "hex": "#BC8F8F",
                 "maxOpacity": 0.35,
@@ -47,6 +49,7 @@
                     "ko": "코랄",
                     "pt": "Coral"
                 },
+                "requireVip": false,
                 "defaultValue": 50,
                 "hex": "#FF7F50",
                 "maxOpacity": 0.4,
@@ -64,6 +67,7 @@
                     "ko": "누드",
                     "pt": "Nude"
                 },
+                "requireVip": true,
                 "defaultValue": 50,
                 "hex": "#F5DEB3",
                 "maxOpacity": 1,
@@ -81,6 +85,7 @@
                     "ko": "핑크",
                     "pt": "Rosa"
                 },
+                "requireVip": false,
                 "defaultValue": 50,
                 "hex": "#FFC0CB",
                 "maxOpacity": 0.7,
@@ -98,6 +103,7 @@
                     "ko": "보라색",
                     "pt": "Roxo"
                 },
+                "requireVip": true,
                 "defaultValue": 50,
                 "hex": "#800080",
                 "maxOpacity": 0.2,
@@ -115,6 +121,7 @@
                     "ko": "진한 빨간색",
                     "pt": "Vermelho Escuro"
                 },
+                "requireVip": true,
                 "defaultValue": 50,
                 "hex": "#8B0000",
                 "maxOpacity": 0.15,
@@ -132,6 +139,7 @@
                     "ko": "와인 레드",
                     "pt": "Vermelho Vinho"
                 },
+                "requireVip": true,
                 "defaultValue": 50,
                 "hex": "#722F37",
                 "maxOpacity": 0.15,
@@ -149,6 +157,7 @@
                     "ko": "연한 빨간색",
                     "pt": "Vermelho Claro"
                 },
+                "requireVip": false,
                 "defaultValue": 50,
                 "hex": "#FF6B6B",
                 "maxOpacity": 0.25,
@@ -170,6 +179,7 @@
                     "ko": "오렌지",
                     "pt": "Laranja"
                 },
+                "requireVip": false,
                 "defaultValue": 50,
                 "hex": "#FFA07A",
                 "maxOpacity": 0.4,
@@ -187,6 +197,7 @@
                     "ko": "자주색",
                     "pt": "Ameixa"
                 },
+                "requireVip": false,
                 "defaultValue": 50,
                 "hex": "#D87093",
                 "maxOpacity": 0.3,
@@ -204,6 +215,7 @@
                     "ko": "로즈 골드",
                     "pt": "Ouro Rosa"
                 },
+                "requireVip": true,
                 "defaultValue": 50,
                 "hex": "#B76E79",
                 "maxOpacity": 0.3,
@@ -221,6 +233,7 @@
                     "ko": "갈색",
                     "pt": "Marrom"
                 },
+                "requireVip": false,
                 "defaultValue": 50,
                 "hex": "#A0522D",
                 "maxOpacity": 0.25,
@@ -238,6 +251,7 @@
                     "ko": "연한 빨간색",
                     "pt": "Vermelho Claro"
                 },
+                "requireVip": false,
                 "defaultValue": 50,
                 "hex": "#FF6B6B",
                 "maxOpacity": 0.25,
@@ -255,6 +269,7 @@
                     "ko": "딥 버건디",
                     "pt": "Bordô Profundo"
                 },
+                "requireVip": true,
                 "defaultValue": 50,
                 "hex": "#7B312E",
                 "maxOpacity": 0.25,
@@ -272,6 +287,7 @@
                     "ko": "와인 레드",
                     "pt": "Vermelho Vinho"
                 },
+                "requireVip": false,
                 "defaultValue": 50,
                 "hex": "#9B3833",
                 "maxOpacity": 0.25,
@@ -289,6 +305,7 @@
                     "ko": "체리 레드",
                     "pt": "Vermelho Cereja"
                 },
+                "requireVip": false,
                 "defaultValue": 50,
                 "hex": "#D9232F",
                 "maxOpacity": 0.3,
@@ -306,6 +323,7 @@
                     "ko": "연어 핑크",
                     "pt": "Rosa Salmão"
                 },
+                "requireVip": false,
                 "defaultValue": 50,
                 "hex": "#DC6964",
                 "maxOpacity": 0.3,
@@ -323,6 +341,7 @@
                     "ko": "루비 레드",
                     "pt": "Vermelho Rubi"
                 },
+                "requireVip": true,
                 "defaultValue": 50,
                 "hex": "#940B13",
                 "maxOpacity": 0.2,
@@ -340,6 +359,7 @@
                     "ko": "코랄 핑크",
                     "pt": "Rosa Coral"
                 },
+                "requireVip": false,
                 "defaultValue": 50,
                 "hex": "#DB6A64",
                 "maxOpacity": 0.3,
@@ -357,6 +377,7 @@
                     "ko": "복숭아색",
                     "pt": "Pêssego"
                 },
+                "requireVip": false,
                 "defaultValue": 50,
                 "hex": "#C3725F",
                 "maxOpacity": 0.3,
@@ -374,6 +395,7 @@
                     "ko": "골든 오렌지",
                     "pt": "Laranja Dourado"
                 },
+                "requireVip": true,
                 "defaultValue": 50,
                 "hex": "#E4864C",
                 "maxOpacity": 0.3,
