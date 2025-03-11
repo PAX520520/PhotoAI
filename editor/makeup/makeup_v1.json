@@ -16,7 +16,7 @@
                 "requireVip": false,
                 "defaultValue": 50,
                 "hex": "#FF0000",
-                "maxOpacity": 0.25,
+                "maxOpacity": 0.5,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_red.jpeg"
             },
             {
@@ -34,7 +34,7 @@
                 "requireVip": false,
                 "defaultValue": 50,
                 "hex": "#BC8F8F",
-                "maxOpacity": 0.35,
+                "maxOpacity": 0.7,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_rosy.jpeg"
             },
             {
@@ -52,7 +52,7 @@
                 "requireVip": false,
                 "defaultValue": 50,
                 "hex": "#FF7F50",
-                "maxOpacity": 0.4,
+                "maxOpacity": 0.8,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_coral.jpeg"
             },
             {
@@ -86,9 +86,9 @@
                     "pt": "Rosa"
                 },
                 "requireVip": false,
-                "defaultValue": 50,
+                "defaultValue": 70,
                 "hex": "#FFC0CB",
-                "maxOpacity": 0.7,
+                "maxOpacity": 1,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_pink.jpeg"
             },
             {
@@ -106,7 +106,7 @@
                 "requireVip": true,
                 "defaultValue": 50,
                 "hex": "#800080",
-                "maxOpacity": 0.2,
+                "maxOpacity": 0.4,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_purple.jpeg"
             },
             {
@@ -124,7 +124,7 @@
                 "requireVip": true,
                 "defaultValue": 50,
                 "hex": "#8B0000",
-                "maxOpacity": 0.15,
+                "maxOpacity": 0.3,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_deep_red.jpeg"
             },
             {
@@ -142,7 +142,7 @@
                 "requireVip": true,
                 "defaultValue": 50,
                 "hex": "#722F37",
-                "maxOpacity": 0.15,
+                "maxOpacity": 0.3,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_wine_red.jpeg"
             },
             {
@@ -160,7 +160,7 @@
                 "requireVip": false,
                 "defaultValue": 50,
                 "hex": "#FF6B6B",
-                "maxOpacity": 0.25,
+                "maxOpacity": 0.5,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_light_red.jpeg"
             }
         ]
