@@ -162,6 +162,204 @@
                 "hex": "#FF6B6B",
                 "maxOpacity": 0.5,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_light_red.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "أرجواني عميق",
+                    "de": "Tiefviolett",
+                    "en": "Deep Purple",
+                    "es": "Morado Profundo",
+                    "fr": "Violet Profond",
+                    "hi": "गहरा बैंगनी",
+                    "ja": "ディープパープル",
+                    "ko": "딥 퍼플",
+                    "pt": "Roxo Profundo"
+                },
+                "requireVip": true,
+                "defaultValue": 50,
+                "hex": "#4A1C36",
+                "maxOpacity": 0.3,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_deep_purple.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "أحمر نبيذي غامق",
+                    "de": "Dunkles Weinrot",
+                    "en": "Dark Wine",
+                    "es": "Vino Oscuro",
+                    "fr": "Vin Foncé",
+                    "hi": "गहरा वाइन",
+                    "ja": "ダークワイン",
+                    "ko": "다크 와인",
+                    "pt": "Vinho Escuro"
+                },
+                "requireVip": true,
+                "defaultValue": 50,
+                "hex": "#701F28",
+                "maxOpacity": 0.3,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_dark_wine.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "برتقالي محروق",
+                    "de": "Gebranntes Orange",
+                    "en": "Burnt Orange",
+                    "es": "Naranja Quemado",
+                    "fr": "Orange Brûlé",
+                    "hi": "जला हुआ नारंगी",
+                    "ja": "バーントオレンジ",
+                    "ko": "번트 오렌지",
+                    "pt": "Laranja Queimado"
+                },
+                "requireVip": true,
+                "defaultValue": 50,
+                "hex": "#A14A2F",
+                "maxOpacity": 0.4,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_burnt_orange.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "وردي سلموني",
+                    "de": "Lachsrosa",
+                    "en": "Salmon Pink",
+                    "es": "Rosa Salmón",
+                    "fr": "Rose Saumon",
+                    "hi": "सैल्मन पिंक",
+                    "ja": "サーモンピンク",
+                    "ko": "연어 핑크",
+                    "pt": "Rosa Salmão"
+                },
+                "requireVip": false,
+                "defaultValue": 60,
+                "hex": "#FF877B",
+                "maxOpacity": 0.6,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_salmon_pink.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "وردي ترابي",
+                    "de": "Staubiges Rosa",
+                    "en": "Dusty Rose",
+                    "es": "Rosa Polvoriento",
+                    "fr": "Rose Poudré",
+                    "hi": "डस्टी रोज़",
+                    "ja": "ダスティローズ",
+                    "ko": "더스티 로즈",
+                    "pt": "Rosa Empoeirado"
+                },
+                "requireVip": false,
+                "defaultValue": 55,
+                "hex": "#C9736C",
+                "maxOpacity": 0.5,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_dusty_rose.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "وردي باستيل",
+                    "de": "Pastellrosa",
+                    "en": "Pastel Pink",
+                    "es": "Rosa Pastel",
+                    "fr": "Rose Pastel",
+                    "hi": "पेस्टल पिंक",
+                    "ja": "パステルピンク",
+                    "ko": "파스텔 핑크",
+                    "pt": "Rosa Pastel"
+                },
+                "requireVip": false,
+                "defaultValue": 65,
+                "hex": "#D8A3A8",
+                "maxOpacity": 0.7,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_pastel_pink.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "بيج دافئ",
+                    "de": "Warmes Beige",
+                    "en": "Warm Beige",
+                    "es": "Beige Cálido",
+                    "fr": "Beige Chaud",
+                    "hi": "वार्म बेज",
+                    "ja": "ウォームベージュ",
+                    "ko": "웜 베이지",
+                    "pt": "Bege Quente"
+                },
+                "requireVip": true,
+                "defaultValue": 50,
+                "hex": "#D1B6A1",
+                "maxOpacity": 0.8,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_warm_beige.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "بيج طبيعي",
+                    "de": "Natürliches Beige",
+                    "en": "Natural Beige",
+                    "es": "Beige Natural",
+                    "fr": "Beige Naturel",
+                    "hi": "नेचुरल बेज",
+                    "ja": "ナチュラルベージュ",
+                    "ko": "내추럴 베이지",
+                    "pt": "Bege Natural"
+                },
+                "requireVip": true,
+                "defaultValue": 50,
+                "hex": "#C8A591",
+                "maxOpacity": 0.8,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_natural_beige.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "أخضر زيتوني",
+                    "de": "Olivgrün",
+                    "en": "Olive Green",
+                    "es": "Verde Oliva",
+                    "fr": "Vert Olive",
+                    "hi": "जैतून हरा",
+                    "ja": "オリーブグリーン",
+                    "ko": "올리브 그린",
+                    "pt": "Verde Oliva"
+                },
+                "requireVip": true,
+                "defaultValue": 45,
+                "hex": "#649B85",
+                "maxOpacity": 0.3,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_olive_green.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "برتقالي مشرق",
+                    "de": "Leuchtendes Orange",
+                    "en": "Bright Orange",
+                    "es": "Naranja Brillante",
+                    "fr": "Orange Vif",
+                    "hi": "चमकीला नारंगी",
+                    "ja": "ブライトオレンジ",
+                    "ko": "브라이트 오렌지",
+                    "pt": "Laranja Brilhante"
+                },
+                "requireVip": false,
+                "defaultValue": 55,
+                "hex": "#F18744",
+                "maxOpacity": 0.5,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_bright_orange.jpeg"
+            },
+            {
+                "title": {
+                    "ar": "أصفر زيتوني",
+                    "de": "Olivgelb",
+                    "en": "Olive Yellow",
+                    "es": "Amarillo Oliva",
+                    "fr": "Jaune Olive",
+                    "hi": "जैतूनी पीला",
+                    "ja": "オリーブイエロー",
+                    "ko": "올리브 옐로우",
+                    "pt": "Amarelo Oliva"
+                },
+                "requireVip": true,
+                "defaultValue": 45,
+                "hex": "#9C9331",
+                "maxOpacity": 0.3,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_olive_yellow.jpeg"
             }
         ]
     },
