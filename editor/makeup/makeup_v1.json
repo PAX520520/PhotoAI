@@ -175,7 +175,7 @@
                     "ko": "다크 체리",
                     "pt": "Cereja Escura"
                 },
-                "requireVip": false,
+                "requireVip": true,
                 "defaultValue": 50,
                 "hex": "#4F262B",
                 "maxOpacity": 1.0,
@@ -198,7 +198,61 @@
                 "hex": "#5D7A1C",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_olive_green.jpeg"
-            }
+            },
+            {
+                "title": {
+                    "ar": "وردي زهري",
+                    "de": "Blumenrosa",
+                    "en": "Floral Pink",
+                    "es": "Rosa Floral",
+                    "fr": "Rose Floral",
+                    "hi": "फ्लोरल पिंक",
+                    "ja": "フローラルピンク",
+                    "ko": "플로럴 핑크",
+                    "pt": "Rosa Floral"
+                },
+                "requireVip": true,
+                "defaultValue": 50,
+                "hex": "#BC3A82",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_floral_pink.jpeg"
+              },
+              {
+                "title": {
+                    "ar": "أرجواني ملكي",
+                    "de": "Königliches Violett",
+                    "en": "Royal Purple",
+                    "es": "Púrpura Real",
+                    "fr": "Violet Royal",
+                    "hi": "रॉयल पर्पल",
+                    "ja": "ロイヤルパープル",
+                    "ko": "로열 퍼플",
+                    "pt": "Roxo Real"
+                },
+                "requireVip": true,
+                "defaultValue": 50,
+                "hex": "#614793",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_royal_purple.jpeg"
+              },
+              {
+                "title": {
+                    "ar": "أخضر زمردي",
+                    "de": "Smaragdgrün",
+                    "en": "Emerald Green",
+                    "es": "Verde Esmeralda",
+                    "fr": "Vert Émeraude",
+                    "hi": "एमराल्ड ग्रीन",
+                    "ja": "エメラルドグリーン",
+                    "ko": "에메랄드 그린",
+                    "pt": "Verde Esmeralda"
+                },
+                "requireVip": true,
+                "defaultValue": 50,
+                "hex": "#41817A",
+                "maxOpacity": 1.0,
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_emerald_green.jpeg"
+              }
         ]
     },
     "blush": {
