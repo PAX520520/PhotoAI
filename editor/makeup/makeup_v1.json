@@ -14,7 +14,7 @@
                     "pt": "Vermelho Cereja"
                 },
                 "requireVip": false,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#B4332D",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_cherry_red.jpeg"
@@ -32,7 +32,7 @@
                     "pt": "Rosa Coral"
                 },
                 "requireVip": false,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#CD605C",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_coral_pink.jpeg"
@@ -50,7 +50,7 @@
                     "pt": "Rosa Puff"
                 },
                 "requireVip": true,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#C04865",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_puff_pink.jpeg"
@@ -68,7 +68,7 @@
                     "pt": "Escarlate Brilhante"
                 },
                 "requireVip": false,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#BA4934",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_bright_scarlet.jpeg"
@@ -86,7 +86,7 @@
                     "pt": "Vermelho Baga"
                 },
                 "requireVip": true,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#C13D4A",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_berry_red.jpeg"
@@ -104,7 +104,7 @@
                     "pt": "Rubi"
                 },
                 "requireVip": true,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#C11D33",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_ruby.jpeg"
@@ -122,7 +122,7 @@
                     "pt": "Vermelho Papoula"
                 },
                 "requireVip": false,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#A4332C",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_poppy_red.jpeg"
@@ -140,7 +140,7 @@
                     "pt": "Terra Castanha"
                 },
                 "requireVip": false,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#803830",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_earth_brown.jpeg"
@@ -158,7 +158,7 @@
                     "pt": "Borgonha"
                 },
                 "requireVip": true,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#862435",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_burgundy.jpeg"
@@ -176,7 +176,7 @@
                     "pt": "Cereja Escura"
                 },
                 "requireVip": true,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#4F262B",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_dark_cherry.jpeg"
@@ -194,7 +194,7 @@
                     "pt": "Verde Oliva"
                 },
                 "requireVip": false,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#5D7A1C",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_olive_green.jpeg"
@@ -212,7 +212,7 @@
                     "pt": "Rosa Floral"
                 },
                 "requireVip": true,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#BC3A82",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_floral_pink.jpeg"
@@ -230,7 +230,7 @@
                     "pt": "Roxo Real"
                 },
                 "requireVip": true,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#614793",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_royal_purple.jpeg"
@@ -248,7 +248,7 @@
                     "pt": "Verde Esmeralda"
                 },
                 "requireVip": true,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#41817A",
                 "maxOpacity": 1.0,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/lipstick_resource/lipstick_emerald_green.jpeg"
@@ -270,9 +270,9 @@
                     "pt": "Laranja"
                 },
                 "requireVip": false,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#FFA07A",
-                "maxOpacity": 0.4,
+                "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_orange.jpeg"
             },
             {
@@ -288,9 +288,9 @@
                     "pt": "Ameixa"
                 },
                 "requireVip": false,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#D87093",
-                "maxOpacity": 0.3,
+                "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_plum.jpeg"
             },
             {
@@ -306,9 +306,9 @@
                     "pt": "Ouro Rosa"
                 },
                 "requireVip": true,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#B76E79",
-                "maxOpacity": 0.3,
+                "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_rose_gold.jpeg"
             },
             {
@@ -324,9 +324,9 @@
                     "pt": "Marrom"
                 },
                 "requireVip": false,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#A0522D",
-                "maxOpacity": 0.25,
+                "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_brown.jpeg"
             },
             {
@@ -342,9 +342,9 @@
                     "pt": "Vermelho Claro"
                 },
                 "requireVip": false,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#FF6B6B",
-                "maxOpacity": 0.25,
+                "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_right_red.jpeg"
             },
             {
@@ -360,9 +360,9 @@
                     "pt": "Bordô Profundo"
                 },
                 "requireVip": true,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#7B312E",
-                "maxOpacity": 0.25,
+                "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_deep_burgundy.jpeg"
             },
             {
@@ -378,9 +378,9 @@
                     "pt": "Vermelho Vinho"
                 },
                 "requireVip": false,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#9B3833",
-                "maxOpacity": 0.25,
+                "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_wine_red.jpeg"
             },
             {
@@ -396,9 +396,9 @@
                     "pt": "Vermelho Cereja"
                 },
                 "requireVip": false,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#D9232F",
-                "maxOpacity": 0.3,
+                "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_cherry_red.jpeg"
             },
             {
@@ -414,9 +414,9 @@
                     "pt": "Rosa Salmão"
                 },
                 "requireVip": false,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#DC6964",
-                "maxOpacity": 0.3,
+                "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_salmon_pink.jpeg"
             },
             {
@@ -432,9 +432,9 @@
                     "pt": "Vermelho Rubi"
                 },
                 "requireVip": true,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#940B13",
-                "maxOpacity": 0.2,
+                "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_ruby_red.jpeg"
             },
             {
@@ -450,9 +450,9 @@
                     "pt": "Rosa Coral"
                 },
                 "requireVip": false,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#DB6A64",
-                "maxOpacity": 0.3,
+                "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_coral_pink.jpeg"
             },
             {
@@ -468,9 +468,9 @@
                     "pt": "Pêssego"
                 },
                 "requireVip": false,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#C3725F",
-                "maxOpacity": 0.3,
+                "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_peach.jpeg"
             },
             {
@@ -486,9 +486,9 @@
                     "pt": "Laranja Dourado"
                 },
                 "requireVip": true,
-                "defaultValue": 50,
+                "defaultValue": 100,
                 "hex": "#E4864C",
-                "maxOpacity": 0.3,
+                "maxOpacity": 0.6,
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/blush_golden_orange.jpeg"
             }
         ]
