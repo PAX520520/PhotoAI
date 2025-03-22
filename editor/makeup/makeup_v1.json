@@ -259,15 +259,15 @@
         "shapes": [
             {
                 "type": "a1",
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/shapes/a1.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/shapes/a1.png"
             },
             {
                 "type": "a2",
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/shapes/a2.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/shapes/a2.png"
             },
             {
                 "type": "a3",
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/shapes/a3.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/shapes/a3.png"
             }
         ],
         "colorCategories": [
