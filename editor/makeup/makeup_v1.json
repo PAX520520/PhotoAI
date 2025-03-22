@@ -273,239 +273,174 @@
         "colorCategories": [
             {
                 "title": {
-                    "ar": "برتقالي",
-                    "de": "Orange",
-                    "en": "Orange",
-                    "es": "Naranja",
-                    "fr": "Orange",
-                    "hi": "नारंगी",
-                    "ja": "オレンジ",
-                    "ko": "오렌지",
-                    "pt": "Laranja"
+                    "ar": "حجاب وردي",
+                    "de": "Rosenschleier",
+                    "en": "Rosy Veil",
+                    "es": "Velo Rosado",
+                    "fr": "Voile Rosé",
+                    "hi": "रोज़ी वेइल",
+                    "ja": "ローズベール",
+                    "ko": "로지 베일",
+                    "pt": "Véu Rosado"
                 },
                 "requireVip": false,
                 "defaultValue": 100,
                 "hex": "#FFA07A",
                 "maxOpacity": 0.6,
                 "shapeType": "a1",
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_orange.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_rosy_veil.jpeg"
             },
             {
                 "title": {
-                    "ar": "برقوق",
-                    "de": "Pflaume",
-                    "en": "Plum",
-                    "es": "Ciruela",
-                    "fr": "Prune",
-                    "hi": "बैंगनी",
-                    "ja": "プラム",
-                    "ko": "자주색",
-                    "pt": "Ameixa"
+                    "ar": "وردي بتلة",
+                    "de": "Blütenblatt Rosa",
+                    "en": "Petal Pink",
+                    "es": "Rosa Pétalo",
+                    "fr": "Rose Pétale",
+                    "hi": "पंखुड़ी गुलाबी",
+                    "ja": "ペタルピンク",
+                    "ko": "페탈 핑크",
+                    "pt": "Rosa Pétala"
                 },
                 "requireVip": false,
                 "defaultValue": 100,
                 "hex": "#D87093",
                 "maxOpacity": 0.6,
                 "shapeType": "a2",
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_plum.jpeg"
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_petal_pink.jpeg"
             },
             {
                 "title": {
-                    "ar": "ذهبي وردي",
-                    "de": "Roségold",
-                    "en": "Rose Gold",
-                    "es": "Oro Rosa",
-                    "fr": "Or Rose",
-                    "hi": "रोज़ गोल्ड",
-                    "ja": "ローズゴールド",
-                    "ko": "로즈 골드",
-                    "pt": "Ouro Rosa"
+                    "ar": "تفتح وردي",
+                    "de": "Blütenrosa",
+                    "en": "Blush Bloom",
+                    "es": "Floración Rosada",
+                    "fr": "Floraison Rose",
+                    "hi": "ब्लश ब्लूम",
+                    "ja": "ブラッシュブルーム",
+                    "ko": "블러쉬 블룸",
+                    "pt": "Flor Rosada"
                 },
                 "requireVip": true,
                 "defaultValue": 100,
                 "hex": "#B76E79",
                 "maxOpacity": 0.6,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_rose_gold.jpeg"
+                "shapeType": "a3",
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_blush_bloom.jpeg"
             },
             {
                 "title": {
-                    "ar": "بني",
-                    "de": "Braun",
-                    "en": "Brown",
-                    "es": "Marrón",
-                    "fr": "Brun",
-                    "hi": "भूरा",
-                    "ja": "ブラウン",
-                    "ko": "갈색",
-                    "pt": "Marrom"
+                    "ar": "مرجان الغروب",
+                    "de": "Sonnenuntergang Koralle",
+                    "en": "Sunset Coral",
+                    "es": "Coral Atardecer",
+                    "fr": "Corail Couchant",
+                    "hi": "सनसेट कोरल",
+                    "ja": "サンセットコーラル",
+                    "ko": "선셋 코랄",
+                    "pt": "Coral Poente"
                 },
                 "requireVip": false,
                 "defaultValue": 100,
                 "hex": "#A0522D",
                 "maxOpacity": 0.6,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_brown.jpeg"
+                "shapeType": "a1",
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_sunset_coral.jpeg"
             },
             {
                 "title": {
-                    "ar": "أحمر فاتح",
-                    "de": "Hellrot",
-                    "en": "Light Red",
-                    "es": "Rojo Claro",
-                    "fr": "Rouge Clair",
-                    "hi": "हल्का लाल",
-                    "ja": "ライトレッド",
-                    "ko": "연한 빨간색",
-                    "pt": "Vermelho Claro"
+                    "ar": "توهج اليوسفي",
+                    "de": "Mandarinen Glanz",
+                    "en": "Tangerine Glow",
+                    "es": "Brillo Mandarina",
+                    "fr": "Éclat Mandarine",
+                    "hi": "टैंजरीन ग्लो",
+                    "ja": "タンジェリングロー",
+                    "ko": "탠저린 글로우",
+                    "pt": "Brilho Tangerina"
                 },
                 "requireVip": false,
                 "defaultValue": 100,
                 "hex": "#FF6B6B",
                 "maxOpacity": 0.6,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_right_red.jpeg"
+                "shapeType": "a2",
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_tangerine_glow.jpeg"
             },
             {
                 "title": {
-                    "ar": "أحمر عميق",
-                    "de": "Tiefrot",
-                    "en": "Deep Burgundy",
-                    "es": "Borgoña Profundo",
-                    "fr": "Bordeaux Profond",
-                    "hi": "गहरा बरगंडी",
-                    "ja": "ディープバーガンディ",
-                    "ko": "딥 버건디",
-                    "pt": "Bordô Profundo"
+                    "ar": "مشمش ناعم",
+                    "de": "Weiche Aprikose",
+                    "en": "Soft Apricot",
+                    "es": "Albaricoque Suave",
+                    "fr": "Abricot Doux",
+                    "hi": "सॉफ्ट एप्रिकॉट",
+                    "ja": "ソフトアプリコット",
+                    "ko": "소프트 애프리콧",
+                    "pt": "Damasco Suave"
                 },
                 "requireVip": true,
                 "defaultValue": 100,
                 "hex": "#7B312E",
                 "maxOpacity": 0.6,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_deep_burgundy.jpeg"
+                "shapeType": "a3",
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_soft_apricot.jpeg"
             },
             {
                 "title": {
-                    "ar": "أحمر نبيذي",
-                    "de": "Weinrot",
-                    "en": "Wine Red",
-                    "es": "Rojo Vino",
-                    "fr": "Rouge Vin",
-                    "hi": "वाइन रेड",
-                    "ja": "ワインレッド",
-                    "ko": "와인 레드",
-                    "pt": "Vermelho Vinho"
+                    "ar": "كرز بوب",
+                    "de": "Kirsch Pop",
+                    "en": "Cherry Pop",
+                    "es": "Pop de Cereza",
+                    "fr": "Pop Cerise",
+                    "hi": "चेरी पॉप",
+                    "ja": "チェリーポップ",
+                    "ko": "체리 팝",
+                    "pt": "Pop de Cereja"
                 },
                 "requireVip": false,
                 "defaultValue": 100,
                 "hex": "#9B3833",
                 "maxOpacity": 0.6,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_wine_red.jpeg"
+                "shapeType": "a1",
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_cherry_pop.jpeg"
             },
             {
                 "title": {
-                    "ar": "أحمر كرزي",
-                    "de": "Kirschrot",
-                    "en": "Cherry Red",
-                    "es": "Rojo Cereza",
-                    "fr": "Rouge Cerise",
-                    "hi": "चेरी लाल",
-                    "ja": "チェリーレッド",
-                    "ko": "체리 레드",
-                    "pt": "Vermelho Cereja"
+                    "ar": "خوخ فليرت",
+                    "de": "Pfirsich Flirt",
+                    "en": "Peach Flirt",
+                    "es": "Coqueteo Melocotón",
+                    "fr": "Flirt Pêche",
+                    "hi": "पीच फ्लर्ट",
+                    "ja": "ピーチフラート",
+                    "ko": "피치 플러트",
+                    "pt": "Flerte Pêssego"
                 },
                 "requireVip": false,
                 "defaultValue": 100,
                 "hex": "#D9232F",
                 "maxOpacity": 0.6,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_cherry_red.jpeg"
+                "shapeType": "a2",
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_peach_flirt.jpeg"
             },
             {
                 "title": {
-                    "ar": "وردي سلموني",
-                    "de": "Lachsrosa",
-                    "en": "Salmon Pink",
-                    "es": "Rosa Salmón",
-                    "fr": "Rose Saumon",
-                    "hi": "सैल्मन पिंक",
-                    "ja": "サーモンピンク",
-                    "ko": "연어 핑크",
-                    "pt": "Rosa Salmão"
+                    "ar": "احمرار عاري",
+                    "de": "Natürliche Röte",
+                    "en": "Nude Flush",
+                    "es": "Rubor Natural",
+                    "fr": "Teint Nude",
+                    "hi": "न्यूड फ्लश",
+                    "ja": "ヌードフラッシュ",
+                    "ko": "누드 플러시",
+                    "pt": "Rubor Natural"
                 },
                 "requireVip": false,
                 "defaultValue": 100,
                 "hex": "#DC6964",
                 "maxOpacity": 0.6,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_salmon_pink.jpeg"
-            },
-            {
-                "title": {
-                    "ar": "أحمر روبي",
-                    "de": "Rubinrot",
-                    "en": "Ruby Red",
-                    "es": "Rojo Rubí",
-                    "fr": "Rouge Rubis",
-                    "hi": "रूबी लाल",
-                    "ja": "ルビーレッド",
-                    "ko": "루비 레드",
-                    "pt": "Vermelho Rubi"
-                },
-                "requireVip": true,
-                "defaultValue": 100,
-                "hex": "#940B13",
-                "maxOpacity": 0.6,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_ruby_red.jpeg"
-            },
-            {
-                "title": {
-                    "ar": "وردي مرجاني",
-                    "de": "Korallenrosa",
-                    "en": "Coral Pink",
-                    "es": "Rosa Coral",
-                    "fr": "Rose Corail",
-                    "hi": "कोरल पिंक",
-                    "ja": "コーラルピンク",
-                    "ko": "코랄 핑크",
-                    "pt": "Rosa Coral"
-                },
-                "requireVip": false,
-                "defaultValue": 100,
-                "hex": "#DB6A64",
-                "maxOpacity": 0.6,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_coral_pink.jpeg"
-            },
-            {
-                "title": {
-                    "ar": "خوخي",
-                    "de": "Pfirsich",
-                    "en": "Peach",
-                    "es": "Melocotón",
-                    "fr": "Pêche",
-                    "hi": "आड़ू",
-                    "ja": "ピーチ",
-                    "ko": "복숭아색",
-                    "pt": "Pêssego"
-                },
-                "requireVip": false,
-                "defaultValue": 100,
-                "hex": "#C3725F",
-                "maxOpacity": 0.6,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_peach.jpeg"
-            },
-            {
-                "title": {
-                    "ar": "برتقالي ذهبي",
-                    "de": "Goldorange",
-                    "en": "Golden Orange",
-                    "es": "Naranja Dorado",
-                    "fr": "Orange Doré",
-                    "hi": "सुनहरा नारंगी",
-                    "ja": "ゴールデンオレンジ",
-                    "ko": "골든 오렌지",
-                    "pt": "Laranja Dourado"
-                },
-                "requireVip": true,
-                "defaultValue": 100,
-                "hex": "#E4864C",
-                "maxOpacity": 0.6,
-                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_golden_orange.jpeg"
+                "shapeType": "a3",
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_nude_flush.jpeg"
             }
         ]
     }
