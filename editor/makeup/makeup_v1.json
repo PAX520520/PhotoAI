@@ -268,6 +268,18 @@
             {
                 "type": "a3",
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/shapes/a3.png"
+            },
+            {
+                "type": "a4",
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/shapes/a4.png"
+            },
+            {
+                "type": "a5",
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/shapes/a5.png"
+            },
+            {
+                "type": "a6",
+                "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/shapes/a6.png"
             }
         ],
         "colorCategories": [
@@ -344,7 +356,7 @@
                 "defaultValue": 100,
                 "hex": "#F6B497",
                 "maxOpacity": 0.6,
-                "shapeType": "a1",
+                "shapeType": "a4",
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_sunset_coral.jpeg"
             },
             {
@@ -363,7 +375,7 @@
                 "defaultValue": 100,
                 "hex": "#F6B497",
                 "maxOpacity": 0.6,
-                "shapeType": "a2",
+                "shapeType": "a5",
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_tangerine_glow.jpeg"
             },
             {
@@ -382,7 +394,7 @@
                 "defaultValue": 100,
                 "hex": "#F6B497",
                 "maxOpacity": 0.6,
-                "shapeType": "a3",
+                "shapeType": "a6",
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_soft_apricot.jpeg"
             },
             {
