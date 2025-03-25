@@ -286,7 +286,7 @@
                 "requireVip": false,
                 "defaultValue": 100,
                 "hex": "#F48985",
-                "maxOpacity": 0.6,
+                "maxOpacity": 1.0,
                 "shapeType": "a1",
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_rosy_veil.jpeg"
             },
@@ -305,7 +305,7 @@
                 "requireVip": false,
                 "defaultValue": 100,
                 "hex": "#F48985",
-                "maxOpacity": 0.6,
+                "maxOpacity": 1.0,
                 "shapeType": "a2",
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_petal_pink.jpeg"
             },
@@ -324,7 +324,7 @@
                 "requireVip": true,
                 "defaultValue": 100,
                 "hex": "#F48985",
-                "maxOpacity": 0.6,
+                "maxOpacity": 1.0,
                 "shapeType": "a3",
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_blush_bloom.jpeg"
             },
@@ -343,7 +343,7 @@
                 "requireVip": false,
                 "defaultValue": 100,
                 "hex": "#F78F69",
-                "maxOpacity": 0.6,
+                "maxOpacity": 1.0,
                 "shapeType": "a1",
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_sunset_coral.jpeg"
             },
@@ -362,7 +362,7 @@
                 "requireVip": false,
                 "defaultValue": 100,
                 "hex": "#F78F69",
-                "maxOpacity": 0.6,
+                "maxOpacity": 1.0,
                 "shapeType": "a2",
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_tangerine_glow.jpeg"
             },
@@ -381,7 +381,7 @@
                 "requireVip": true,
                 "defaultValue": 100,
                 "hex": "#F78F69",
-                "maxOpacity": 0.6,
+                "maxOpacity": 1.0,
                 "shapeType": "a3",
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_soft_apricot.jpeg"
             },
@@ -400,7 +400,7 @@
                 "requireVip": false,
                 "defaultValue": 100,
                 "hex": "#FC8484",
-                "maxOpacity": 0.6,
+                "maxOpacity": 1.0,
                 "shapeType": "a1",
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_cherry_pop.jpeg"
             },
@@ -419,7 +419,7 @@
                 "requireVip": false,
                 "defaultValue": 100,
                 "hex": "#FC8484",
-                "maxOpacity": 0.6,
+                "maxOpacity": 1.0,
                 "shapeType": "a2",
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_peach_flirt.jpeg"
             },
@@ -438,7 +438,7 @@
                 "requireVip": false,
                 "defaultValue": 100,
                 "hex": "#FC8484",
-                "maxOpacity": 0.6,
+                "maxOpacity": 1.0,
                 "shapeType": "a3",
                 "imageUrl": "https://raw.githubusercontent.com/PAX520520/PhotoAI/main/editor/makeup/blush_resource/examples/blush_nude_flush.jpeg"
             }
