@@ -3,8 +3,11 @@
         {
             "os_name": "ios",
             "force_update_below_version": "",
-            "force_update_versions": ["1.1.7"],
-            "version": "1.2.9",
+            "force_update_versions": [
+                "1.1.7",
+                "1.3.6"
+            ],
+            "version": "1.3.7",
             "messages": {
                 "en": "Due to server upgrades, please update to the latest version on App Store to ensure functionality",
                 "fr": "En raison des mises à niveau du serveur, veuillez mettre à jour vers la dernière version sur App Store pour assurer la fonctionnalité",
